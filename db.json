@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": "2f8f",
+      "title": "iphone16",
+      "price": "80000",
+      "image": "https://imgs.search.brave.com/kU-W7GDpKGlfHKoITVMVNPoU6CJNI93UvjpbUq4QhYQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBwbGUuY29tL25l/d3Nyb29tL2ltYWdl/cy8yMDI0LzA5L2Fw/cGxlLWludHJvZHVj/ZXMtaXBob25lLTE2/LWFuZC1pcGhvbmUt/MTYtcGx1cy9hcnRp/Y2xlL0FwcGxlLWlQ/aG9uZS0xNi1oZXJv/LTI0MDkwOV9pbmxp/bmUuanBnLmxhcmdl/LmpwZw",
+      "category": "Mobile"
+    }
+  ]
+}
